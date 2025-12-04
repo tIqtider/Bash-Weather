@@ -1,2 +1,2 @@
 # Bash-Weather
-This script fetches weather data for a specific area from an API 
+A cron job triggers the script at set intervals to pull weather data for a specific location from this API: https://open-meteo.com/en/docs 
